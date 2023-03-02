@@ -1,0 +1,15 @@
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.csproj.AssemblyReference.cache
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.AssemblyInfoInputs.cache
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.AssemblyInfo.cs
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.csproj.CoreCompileInputs.cache
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\bin\Debug\net6.0\UC9_GITHUB_ALUNOS.exe
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\bin\Debug\net6.0\UC9_GITHUB_ALUNOS.deps.json
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\bin\Debug\net6.0\UC9_GITHUB_ALUNOS.runtimeconfig.json
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\bin\Debug\net6.0\UC9_GITHUB_ALUNOS.dll
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\bin\Debug\net6.0\ref\UC9_GITHUB_ALUNOS.dll
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\bin\Debug\net6.0\UC9_GITHUB_ALUNOS.pdb
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.dll
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\ref\UC9_GITHUB_ALUNOS.dll
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.pdb
+C:\Users\asaph.jgalhardo\source\repos\UC9_GITHUB_ALUNOS\UC9_GITHUB_ALUNOS\obj\Debug\net6.0\UC9_GITHUB_ALUNOS.genruntimeconfig.cache
